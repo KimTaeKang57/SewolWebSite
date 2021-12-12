@@ -9,6 +9,8 @@
 환경
 =============
 ![image](https://user-images.githubusercontent.com/83891837/145698212-af334160-03e7-43af-bde8-f2d30e6ba2e2.png)
+/n
+
 Spring Data Jpa를 이용한 DB와의 연결, MVC 패턴을 이용해 클라이언트 계층과 애플리케이션 계층을 분리하였습니다.
 
 인텔리제이를 사용하였고, 언어는 자바를 사용하였습니다.
